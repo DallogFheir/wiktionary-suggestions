@@ -1,4 +1,4 @@
-## wiktionary-suggestions
+## Wiktionary Suggestions
 
 [Wiktionary Suggestions extension for Firefox.](https://addons.mozilla.org/en-US/firefox/addon/wiktionary-suggestions)
 
@@ -14,3 +14,4 @@ Only available for English Wiktionary.
 
 ![screenshot_1](imgs/screenshot_1.png)
 ![screenshot_2](imgs/screenshot_2.png)
+
